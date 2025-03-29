@@ -2,3 +2,4 @@ ECHO is on.
 
 here it is
 
+"Line 2: This line is added by the feature branch." 
